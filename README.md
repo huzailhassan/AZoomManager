@@ -1,6 +1,6 @@
 # A-Zoom Manager
 Type: Collab Project <br>
-Responsibilites: Frontend, Backend, and Design
+Responsibilites: Frontend, Backend, and Design <br>
 Stack: Vue, Chrome API (Frontend) <br>
 Platform: Chrome <br>
 
