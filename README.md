@@ -1,5 +1,5 @@
 # A-Zoom Manager
-Type: Solo Project <br>
+Type: Collab Project <br>
 Stack: Vue, Chrome API (Frontend) <br>
 Platform: Chrome <br>
 
